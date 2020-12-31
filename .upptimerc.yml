@@ -45,7 +45,7 @@ commitMessages:
 
 # Schedule Workflows
 workflowSchedule:
-  graphs: "0 0 * * *"
+  graphs: "0 0/12 * * *"
   responseTime: "0 23 * * *"
   staticSite: "0 1 * * *"
   summary: "0 0 * * *"
