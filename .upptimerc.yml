@@ -38,5 +38,23 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+# Custom Commit Msgs
+commitMessages:
+  commitAuthorName: "Upptime Bot"
+  commitAuthorEmail: "upptime@travisq.com"
+
+# Schedule Workflows
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
+
+# User-agent
+user-agent: tquizzle
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
