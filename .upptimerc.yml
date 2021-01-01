@@ -45,7 +45,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-    - title: -
+    - title:  
       href: #
     - title: Back to TravisQ.com
       href: https://travisq.com
