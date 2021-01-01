@@ -28,8 +28,8 @@ sites:
     url: https://news.ycombinator.com
   - name: SS1
     url: $upptime_ss1
-  - name: SS2
-    url: $upptime_ss2
+#  - name: SS2
+#    url: $upptime_ss2
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -45,6 +45,10 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: -
+      href: #
+    - title: Back to TravisQ.com
+      href: https://travisq.com
 
 # Custom Commit Msgs
 commitMessages:
