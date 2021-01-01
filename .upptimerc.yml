@@ -12,8 +12,16 @@ sites:
     url: http://quinnelly.us
   - name: vTechify
     url: https://vtechify.com
+  - name: SilasQ.com
+    url: https://silasq.com
+  - name: VivianQ.com
+    url: https://vivianq.com
+  - name: Tulsa VMUG
+    url: https://community.vmug.com/communities/localcommunityhome?CommunityKey=df324546-734f-4dca-ab4f-9e67d96c753a
   - name: Google
     url: https://www.google.com
+  - name: Instagram.com
+    url: https://instagram.com
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
@@ -46,7 +54,7 @@ commitMessages:
 # Schedule Workflows
 workflowSchedule:
   graphs: "0 0/12 * * *"
-  responseTime: "0 23 * * *"
+  responseTime: "0 23/4 * * *"
   staticSite: "0 1 * * *"
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
