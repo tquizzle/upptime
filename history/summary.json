@@ -22,9 +22,9 @@
     "url": "https://qindustries.llc",
     "icon": "https://favicons.githubusercontent.com/qindustries.llc",
     "slug": "q-industries",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 540,
     "timeMonth": 540,
     "timeYear": 540,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-05": 0
+    }
   },
   {
     "name": "Quinnelly.US",
@@ -59,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/vtechify.com",
     "slug": "v-techify",
     "status": "down",
-    "uptime": "79.71%",
-    "uptimeDay": "14.76%",
-    "uptimeWeek": "79.71%",
-    "uptimeMonth": "79.71%",
-    "uptimeYear": "79.71%",
+    "uptime": "77.97%",
+    "uptimeDay": "5.38%",
+    "uptimeWeek": "77.97%",
+    "uptimeMonth": "77.97%",
+    "uptimeYear": "77.97%",
     "time": 257,
     "timeDay": 0,
     "timeWeek": 257,
     "timeMonth": 257,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2021-01-05": 26,
+      "2021-01-05": 161,
       "2021-01-04": 1201
     }
   },
@@ -206,11 +208,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ss-1",
     "status": "down",
-    "uptime": "99.61%",
+    "uptime": "99.62%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
