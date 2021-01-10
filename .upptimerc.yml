@@ -12,10 +12,10 @@ sites:
     url: http://quinnelly.us
   - name: vTechify
     url: https://vtechify.com
-  - name: SilasQ.com
-    url: https://silasq.com
-  - name: VivianQ.com
-    url: https://vivianq.com
+#  - name: SilasQ.com
+#    url: https://silasq.com
+#  - name: VivianQ.com
+#    url: https://vivianq.com
   - name: Tulsa VMUG
     url: https://community.vmug.com/communities/localcommunityhome?CommunityKey=df324546-734f-4dca-ab4f-9e67d96c753a
   - name: Google
