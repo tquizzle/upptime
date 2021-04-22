@@ -26,8 +26,10 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: SS1
-    url: $upptime_ss1
+  - name: ModivCare
+    url: https://www.modivcare.com
+#  - name: SS1
+#    url: $upptime_ss1
 #  - name: SS2
 #    url: $upptime_ss2
 
