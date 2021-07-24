@@ -26,11 +26,11 @@
     "icon": "https://favicons.githubusercontent.com/qindustries.llc",
     "slug": "q-industries",
     "status": "up",
-    "uptime": "91.03%",
+    "uptime": "91.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.03%",
+    "uptimeYear": "91.05%",
     "time": 327,
     "timeDay": 1179,
     "timeWeek": 537,
@@ -216,9 +216,9 @@
     "url": "https://www.modivcare.com",
     "icon": "https://favicons.githubusercontent.com/www.modivcare.com",
     "slug": "modiv-care",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -228,6 +228,7 @@
     "timeMonth": 689,
     "timeYear": 670,
     "dailyMinutesDown": {
+      "2021-07-24": 0,
       "2021-04-24": 68
     }
   }
