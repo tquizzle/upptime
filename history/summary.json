@@ -68,7 +68,7 @@
     "slug": "quinnelly-us",
     "status": "up",
     "uptime": "97.57%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "0.22%",
     "uptimeWeek": "72.79%",
     "uptimeMonth": "93.74%",
     "uptimeYear": "97.57%",
@@ -131,7 +131,7 @@
     "timeMonth": 1539,
     "timeYear": 1236,
     "dailyMinutesDown": {
-      "2021-09-01": 21,
+      "2021-09-01": 24,
       "2021-08-31": 1440,
       "2021-08-30": 1440,
       "2021-08-29": 1440,
