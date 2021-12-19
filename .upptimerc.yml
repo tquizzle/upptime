@@ -32,7 +32,23 @@ sites:
 #    url: $upptime_ss1
 #  - name: SS2
 #    url: $upptime_ss2
-
+  - name: Google DNS 1
+    url: 8.8.4.4
+    check: "tcp-ping"
+    port: 53
+  - name: Google DNS 2
+    url: 8.8.8.8
+    check: "tcp-ping"
+    port: 53
+  - name: Cloudflare DNS
+    url: 1.1.1.1
+    check: "tcp-ping"
+    port: 53
+  - name: Quad Nine
+    url: 9.9.9.9
+    check: "tcp-ping"
+    port: 53
+  - 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: upptime.travisq.com
