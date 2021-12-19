@@ -48,7 +48,7 @@ sites:
     url: 9.9.9.9
     check: "tcp-ping"
     port: 53
-  - 
+
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: upptime.travisq.com
