@@ -13,7 +13,7 @@
     "time": 286,
     "timeDay": 128,
     "timeWeek": 141,
-    "timeMonth": 160,
+    "timeMonth": 157,
     "timeYear": 312,
     "dailyMinutesDown": {
       "2022-02-12": 38,
@@ -41,7 +41,7 @@
     "time": 320,
     "timeDay": 86,
     "timeWeek": 94,
-    "timeMonth": 100,
+    "timeMonth": 101,
     "timeYear": 324,
     "dailyMinutesDown": {
       "2022-02-13": 1004,
@@ -121,7 +121,7 @@
     "icon": "https://favicons.githubusercontent.com/quinnelly.us",
     "slug": "quinnelly-us",
     "status": "down",
-    "uptime": "88.66%",
+    "uptime": "88.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -129,7 +129,7 @@
     "time": 228,
     "timeDay": 58,
     "timeWeek": 121,
-    "timeMonth": 127,
+    "timeMonth": 129,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2022-02-13": 1004,
@@ -198,7 +198,7 @@
     "time": 184,
     "timeDay": 223,
     "timeWeek": 170,
-    "timeMonth": 176,
+    "timeMonth": 174,
     "timeYear": 177,
     "dailyMinutesDown": {
       "2021-06-08": 26
@@ -218,7 +218,7 @@
     "time": 938,
     "timeDay": 513,
     "timeWeek": 442,
-    "timeMonth": 523,
+    "timeMonth": 518,
     "timeYear": 871,
     "dailyMinutesDown": {
       "2021-11-01": 25,
@@ -301,7 +301,7 @@
     "time": 89,
     "timeDay": 76,
     "timeWeek": 97,
-    "timeMonth": 100,
+    "timeMonth": 98,
     "timeYear": 92,
     "dailyMinutesDown": {
       "2021-06-11": 18
@@ -321,7 +321,7 @@
     "time": 944,
     "timeDay": 909,
     "timeWeek": 1092,
-    "timeMonth": 756,
+    "timeMonth": 743,
     "timeYear": 946,
     "dailyMinutesDown": {
       "2021-12-03": 20,
@@ -344,7 +344,7 @@
     "time": 200,
     "timeDay": 74,
     "timeWeek": 175,
-    "timeMonth": 139,
+    "timeMonth": 140,
     "timeYear": 205,
     "dailyMinutesDown": {
       "2022-03-29": 19,
@@ -367,7 +367,7 @@
     "time": 316,
     "timeDay": 91,
     "timeWeek": 202,
-    "timeMonth": 201,
+    "timeMonth": 208,
     "timeYear": 296,
     "dailyMinutesDown": {
       "2021-12-15": 41,
@@ -408,7 +408,7 @@
     "time": 5,
     "timeDay": 2,
     "timeWeek": 3,
-    "timeMonth": 5,
+    "timeMonth": 4,
     "timeYear": 5,
     "dailyMinutesDown": {}
   },
