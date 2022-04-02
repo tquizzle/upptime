@@ -14,7 +14,7 @@
     "timeDay": 49,
     "timeWeek": 112,
     "timeMonth": 156,
-    "timeYear": 311,
+    "timeYear": 312,
     "dailyMinutesDown": {
       "2022-02-12": 38,
       "2021-12-18": 17,
@@ -121,7 +121,7 @@
     "icon": "https://favicons.githubusercontent.com/quinnelly.us",
     "slug": "quinnelly-us",
     "status": "down",
-    "uptime": "88.71%",
+    "uptime": "88.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -219,7 +219,7 @@
     "timeDay": 373,
     "timeWeek": 463,
     "timeMonth": 516,
-    "timeYear": 867,
+    "timeYear": 863,
     "dailyMinutesDown": {
       "2022-04-01": 42,
       "2021-11-01": 25,
@@ -323,7 +323,7 @@
     "timeDay": 773,
     "timeWeek": 960,
     "timeMonth": 767,
-    "timeYear": 948,
+    "timeYear": 946,
     "dailyMinutesDown": {
       "2021-12-03": 20,
       "2021-10-04": 369,
