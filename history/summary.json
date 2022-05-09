@@ -40,7 +40,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.51%",
+    "uptimeYear": "82.54%",
     "time": 299,
     "timeDay": 244,
     "timeWeek": 134,
@@ -111,8 +111,7 @@
       "2021-05-13": 1440,
       "2021-05-12": 1440,
       "2021-05-11": 1440,
-      "2021-05-10": 1440,
-      "2021-05-09": 1440
+      "2021-05-10": 1440
     }
   },
   {
@@ -210,18 +209,19 @@
     "icon": "https://favicons.githubusercontent.com/my.vmug.com",
     "slug": "tulsa-vmug",
     "status": "down",
-    "uptime": "83.35%",
+    "uptime": "83.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "21.47%",
-    "uptimeYear": "77.52%",
+    "uptimeMonth": "21.12%",
+    "uptimeYear": "77.49%",
     "time": 867,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 554,
     "timeYear": 823,
     "dailyMinutesDown": {
-      "2022-05-08": 1401,
+      "2022-05-09": 115,
+      "2022-05-08": 1440,
       "2022-05-07": 1440,
       "2022-05-06": 1440,
       "2022-05-05": 1440,
