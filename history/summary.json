@@ -40,7 +40,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.16%",
+    "uptimeYear": "85.17%",
     "time": 294,
     "timeDay": 157,
     "timeWeek": 144,
@@ -204,14 +204,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "74.87%",
+    "uptimeYear": "74.85%",
     "time": 865,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 814,
     "dailyMinutesDown": {
-      "2022-05-18": 923,
+      "2022-05-18": 993,
       "2022-05-17": 1440,
       "2022-05-16": 1440,
       "2022-05-15": 1440,
@@ -481,18 +481,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ad-guard-home",
     "status": "down",
-    "uptime": "99.41%",
-    "uptimeDay": "43.87%",
-    "uptimeWeek": "91.98%",
-    "uptimeMonth": "98.15%",
-    "uptimeYear": "99.41%",
+    "uptime": "99.35%",
+    "uptimeDay": "39.01%",
+    "uptimeWeek": "91.29%",
+    "uptimeMonth": "97.99%",
+    "uptimeYear": "99.35%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-18": 808
+      "2022-05-18": 878
     }
   }
 ]
