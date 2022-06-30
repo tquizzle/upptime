@@ -5,10 +5,10 @@
     "icon": "https://favicons.githubusercontent.com/travisq.com",
     "slug": "travis-q-com",
     "status": "down",
-    "uptime": "99.57%",
-    "uptimeDay": "88.20%",
-    "uptimeWeek": "98.31%",
-    "uptimeMonth": "99.51%",
+    "uptime": "99.56%",
+    "uptimeDay": "87.64%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "99.49%",
     "uptimeYear": "99.82%",
     "time": 304,
     "timeDay": 172,
@@ -16,7 +16,7 @@
     "timeMonth": 177,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2022-06-30": 169,
+      "2022-06-30": 177,
       "2022-06-21": 46,
       "2022-05-08": 19,
       "2022-05-04": 69,
@@ -176,9 +176,9 @@
     "slug": "v-techify",
     "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "88.19%",
-    "uptimeWeek": "98.31%",
-    "uptimeMonth": "99.51%",
+    "uptimeDay": "87.63%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "99.49%",
     "uptimeYear": "99.96%",
     "time": 174,
     "timeDay": 174,
@@ -186,7 +186,7 @@
     "timeMonth": 172,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2022-06-30": 170,
+      "2022-06-30": 178,
       "2022-06-21": 45
     }
   },
@@ -207,7 +207,7 @@
     "timeMonth": 0,
     "timeYear": 785,
     "dailyMinutesDown": {
-      "2022-06-30": 851,
+      "2022-06-30": 859,
       "2022-06-29": 1440,
       "2022-06-28": 1440,
       "2022-06-27": 1440,
@@ -530,7 +530,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-30": 851,
+      "2022-06-30": 859,
       "2022-06-29": 1440,
       "2022-06-28": 1440,
       "2022-06-27": 1440,
