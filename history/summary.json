@@ -110,7 +110,7 @@
     "icon": "https://favicons.githubusercontent.com/quinnelly.us",
     "slug": "quinnelly-us",
     "status": "down",
-    "uptime": "84.62%",
+    "uptime": "84.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -121,7 +121,8 @@
     "timeMonth": 131,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2022-08-30": 1404,
+      "2022-08-31": 157,
+      "2022-08-30": 1440,
       "2022-08-29": 1440,
       "2022-08-28": 1440,
       "2022-08-27": 1440,
@@ -210,8 +211,7 @@
       "2022-01-01": 1440,
       "2021-12-31": 1440,
       "2021-12-30": 1272,
-      "2021-09-01": 21,
-      "2021-08-31": 1440
+      "2021-09-01": 21
     }
   },
   {
@@ -241,7 +241,7 @@
     "icon": "https://favicons.githubusercontent.com/my.vmug.com",
     "slug": "tulsa-vmug",
     "status": "down",
-    "uptime": "67.69%",
+    "uptime": "67.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -252,7 +252,8 @@
     "timeMonth": 0,
     "timeYear": 579,
     "dailyMinutesDown": {
-      "2022-08-30": 1404,
+      "2022-08-31": 157,
+      "2022-08-30": 1440,
       "2022-08-29": 1440,
       "2022-08-28": 1440,
       "2022-08-27": 1440,
@@ -439,8 +440,7 @@
       "2021-09-04": 1440,
       "2021-09-03": 1440,
       "2021-09-02": 1440,
-      "2021-09-01": 1440,
-      "2021-08-31": 1440
+      "2021-09-01": 1440
     }
   },
   {
@@ -613,18 +613,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ad-guard-home",
     "status": "down",
-    "uptime": "47.23%",
+    "uptime": "47.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "47.23%",
+    "uptimeYear": "47.20%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-30": 1405,
+      "2022-08-31": 158,
+      "2022-08-30": 1440,
       "2022-08-29": 1440,
       "2022-08-28": 1440,
       "2022-08-27": 1440,
