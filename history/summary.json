@@ -110,18 +110,19 @@
     "icon": "https://favicons.githubusercontent.com/quinnelly.us",
     "slug": "quinnelly-us",
     "status": "down",
-    "uptime": "84.34%",
+    "uptime": "84.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "75.49%",
+    "uptimeYear": "75.45%",
     "time": 173,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2022-09-01": 1403,
+      "2022-09-02": 143,
+      "2022-09-01": 1440,
       "2022-08-31": 1440,
       "2022-08-30": 1440,
       "2022-08-29": 1440,
@@ -241,7 +242,7 @@
     "icon": "https://favicons.githubusercontent.com/my.vmug.com",
     "slug": "tulsa-vmug",
     "status": "down",
-    "uptime": "67.47%",
+    "uptime": "67.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -252,7 +253,8 @@
     "timeMonth": 0,
     "timeYear": 575,
     "dailyMinutesDown": {
-      "2022-09-01": 1403,
+      "2022-09-02": 143,
+      "2022-09-01": 1440,
       "2022-08-31": 1440,
       "2022-08-30": 1440,
       "2022-08-29": 1440,
@@ -439,8 +441,7 @@
       "2021-09-06": 1440,
       "2021-09-05": 1440,
       "2021-09-04": 1440,
-      "2021-09-03": 1440,
-      "2021-09-02": 1440
+      "2021-09-03": 1440
     }
   },
   {
@@ -482,8 +483,7 @@
     "dailyMinutesDown": {
       "2022-05-10": 25,
       "2021-12-03": 20,
-      "2021-10-04": 369,
-      "2021-09-02": 76
+      "2021-10-04": 369
     }
   },
   {
@@ -613,18 +613,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ad-guard-home",
     "status": "down",
-    "uptime": "46.76%",
+    "uptime": "46.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "46.76%",
+    "uptimeYear": "46.73%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-01": 1403,
+      "2022-09-02": 144,
+      "2022-09-01": 1440,
       "2022-08-31": 1440,
       "2022-08-30": 1440,
       "2022-08-29": 1440,
