@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.90%",
     "time": 317,
     "timeDay": 245,
     "timeWeek": 171,
@@ -28,8 +28,7 @@
       "2021-12-18": 17,
       "2021-12-15": 16,
       "2021-11-15": 17,
-      "2021-10-23": 50,
-      "2021-09-15": 24
+      "2021-10-23": 50
     }
   },
   {
@@ -107,18 +106,19 @@
     "icon": "https://favicons.githubusercontent.com/quinnelly.us",
     "slug": "quinnelly-us",
     "status": "down",
-    "uptime": "82.58%",
+    "uptime": "82.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "71.93%",
+    "uptimeYear": "71.89%",
     "time": 173,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2022-09-14": 1404,
+      "2022-09-15": 156,
+      "2022-09-14": 1440,
       "2022-09-13": 1440,
       "2022-09-12": 1440,
       "2022-09-11": 1440,
@@ -251,7 +251,7 @@
     "icon": "https://favicons.githubusercontent.com/my.vmug.com",
     "slug": "tulsa-vmug",
     "status": "down",
-    "uptime": "66.06%",
+    "uptime": "66.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -262,7 +262,8 @@
     "timeMonth": 0,
     "timeYear": 551,
     "dailyMinutesDown": {
-      "2022-09-14": 1405,
+      "2022-09-15": 156,
+      "2022-09-14": 1440,
       "2022-09-13": 1440,
       "2022-09-12": 1440,
       "2022-09-11": 1440,
@@ -449,8 +450,7 @@
       "2021-09-19": 1440,
       "2021-09-18": 1440,
       "2021-09-17": 1440,
-      "2021-09-16": 1440,
-      "2021-09-15": 1440
+      "2021-09-16": 1440
     }
   },
   {
@@ -622,18 +622,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ad-guard-home",
     "status": "down",
-    "uptime": "43.92%",
+    "uptime": "43.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "43.92%",
+    "uptimeYear": "43.89%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-14": 1405,
+      "2022-09-15": 156,
+      "2022-09-14": 1440,
       "2022-09-13": 1440,
       "2022-09-12": 1440,
       "2022-09-11": 1440,
