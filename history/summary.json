@@ -106,9 +106,9 @@
     "slug": "quinnelly-us",
     "status": "up",
     "uptime": "76.90%",
-    "uptimeDay": "64.11%",
-    "uptimeWeek": "9.16%",
-    "uptimeMonth": "0.20%",
+    "uptimeDay": "66.58%",
+    "uptimeWeek": "9.51%",
+    "uptimeMonth": "0.28%",
     "uptimeYear": "59.27%",
     "time": 171,
     "timeDay": 666,
@@ -300,14 +300,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "45.27%",
+    "uptimeYear": "45.26%",
     "time": 769,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 471,
     "dailyMinutesDown": {
-      "2022-10-31": 1158,
+      "2022-10-31": 1194,
       "2022-10-30": 1440,
       "2022-10-29": 1440,
       "2022-10-28": 1440,
@@ -643,10 +643,10 @@
     "url": "1.1.1.1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloudflare-dns",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 6,
@@ -654,7 +654,9 @@
     "timeWeek": 7,
     "timeMonth": 6,
     "timeYear": 6,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-31": 2
+    }
   },
   {
     "name": "Quad Nine",
@@ -691,7 +693,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-31": 1158,
+      "2022-10-31": 1194,
       "2022-10-30": 1440,
       "2022-10-29": 1440,
       "2022-10-28": 1440,
