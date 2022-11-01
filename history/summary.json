@@ -107,8 +107,8 @@
     "status": "up",
     "uptime": "76.94%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "25.91%",
-    "uptimeMonth": "4.05%",
+    "uptimeWeek": "26.17%",
+    "uptimeMonth": "4.12%",
     "uptimeYear": "59.27%",
     "time": 171,
     "timeDay": 642,
@@ -307,7 +307,7 @@
     "timeMonth": 0,
     "timeYear": 473,
     "dailyMinutesDown": {
-      "2022-11-01": 1406,
+      "2022-11-01": 1433,
       "2022-10-31": 1440,
       "2022-10-30": 1440,
       "2022-10-29": 1440,
@@ -643,10 +643,10 @@
     "url": "1.1.1.1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloudflare-dns",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "83.35%",
-    "uptimeWeek": "96.71%",
+    "uptimeDay": "83.24%",
+    "uptimeWeek": "96.69%",
     "uptimeMonth": "99.24%",
     "uptimeYear": "99.93%",
     "time": 6,
@@ -655,7 +655,7 @@
     "timeMonth": 6,
     "timeYear": 6,
     "dailyMinutesDown": {
-      "2022-11-01": 238,
+      "2022-11-01": 240,
       "2022-10-31": 92
     }
   },
@@ -694,7 +694,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-01": 1407,
+      "2022-11-01": 1433,
       "2022-10-31": 1440,
       "2022-10-30": 1440,
       "2022-10-29": 1440,
