@@ -120,7 +120,7 @@
     "timeMonth": 579,
     "timeYear": 176,
     "dailyMinutesDown": {
-      "2022-11-14": 900,
+      "2022-11-14": 924,
       "2022-11-13": 1440,
       "2022-11-12": 1440,
       "2022-11-11": 1440,
@@ -315,14 +315,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "41.49%",
+    "uptimeYear": "41.48%",
     "time": 716,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 477,
     "dailyMinutesDown": {
-      "2022-11-14": 900,
+      "2022-11-14": 924,
       "2022-11-13": 1440,
       "2022-11-12": 1440,
       "2022-11-11": 1440,
@@ -572,7 +572,7 @@
     "uptimeYear": "99.98%",
     "time": 884,
     "timeDay": 543,
-    "timeWeek": 580,
+    "timeWeek": 582,
     "timeMonth": 664,
     "timeYear": 885,
     "dailyMinutesDown": {
@@ -672,9 +672,9 @@
     "slug": "cloudflare-dns",
     "status": "up",
     "uptime": "99.05%",
-    "uptimeDay": "62.37%",
-    "uptimeWeek": "77.71%",
-    "uptimeMonth": "89.74%",
+    "uptimeDay": "63.18%",
+    "uptimeWeek": "77.83%",
+    "uptimeMonth": "89.68%",
     "uptimeYear": "99.05%",
     "time": 6,
     "timeDay": 5,
@@ -682,7 +682,7 @@
     "timeMonth": 5,
     "timeYear": 6,
     "dailyMinutesDown": {
-      "2022-11-14": 371,
+      "2022-11-14": 359,
       "2022-11-13": 288,
       "2022-11-12": 368,
       "2022-11-11": 390,
@@ -695,7 +695,7 @@
       "2022-11-04": 286,
       "2022-11-03": 265,
       "2022-11-02": 343,
-      "2022-11-01": 32
+      "2022-11-01": 67
     }
   },
   {
@@ -733,7 +733,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-14": 900,
+      "2022-11-14": 925,
       "2022-11-13": 1440,
       "2022-11-12": 1440,
       "2022-11-11": 1440,
