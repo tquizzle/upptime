@@ -41,8 +41,8 @@
     "status": "down",
     "uptime": "90.07%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "76.13%",
-    "uptimeMonth": "94.51%",
+    "uptimeWeek": "76.08%",
+    "uptimeMonth": "94.49%",
     "uptimeYear": "86.19%",
     "time": 269,
     "timeDay": 469,
@@ -50,7 +50,7 @@
     "timeMonth": 430,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2022-11-23": 1220,
+      "2022-11-23": 1226,
       "2022-11-22": 1186,
       "2022-02-13": 1004,
       "2022-02-12": 1440,
@@ -110,7 +110,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/quinnelly.us.ico",
     "slug": "quinnelly-us",
     "status": "down",
-    "uptime": "74.91%",
+    "uptime": "74.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "13.14%",
@@ -121,7 +121,7 @@
     "timeMonth": 579,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2022-11-23": 1220,
+      "2022-11-23": 1226,
       "2022-11-22": 1440,
       "2022-11-21": 1440,
       "2022-11-20": 1440,
@@ -332,7 +332,7 @@
     "timeMonth": 0,
     "timeYear": 464,
     "dailyMinutesDown": {
-      "2022-11-23": 1220,
+      "2022-11-23": 1226,
       "2022-11-22": 1440,
       "2022-11-21": 1440,
       "2022-11-20": 1440,
@@ -689,11 +689,11 @@
     "url": "1.1.1.1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloudflare-dns",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "76.36%",
-    "uptimeWeek": "80.25%",
-    "uptimeMonth": "91.66%",
+    "uptimeDay": "76.24%",
+    "uptimeWeek": "80.29%",
+    "uptimeMonth": "91.69%",
     "uptimeYear": "99.25%",
     "time": 6,
     "timeDay": 5,
@@ -701,7 +701,7 @@
     "timeMonth": 6,
     "timeYear": 6,
     "dailyMinutesDown": {
-      "2022-11-23": 270,
+      "2022-11-23": 272,
       "2022-11-22": 276,
       "2022-11-21": 354,
       "2022-11-20": 339,
@@ -713,7 +713,7 @@
       "2022-11-14": 414,
       "2022-11-13": 288,
       "2022-11-12": 368,
-      "2022-11-11": 74
+      "2022-11-11": 57
     }
   },
   {
@@ -751,7 +751,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-23": 1220,
+      "2022-11-23": 1226,
       "2022-11-22": 1440,
       "2022-11-21": 1440,
       "2022-11-20": 1440,
