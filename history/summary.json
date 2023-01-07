@@ -37,7 +37,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/qindustries.llc.ico",
     "slug": "q-industries",
     "status": "down",
-    "uptime": "84.67%",
+    "uptime": "84.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -48,7 +48,8 @@
     "timeMonth": 175,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2023-01-06": 1396,
+      "2023-01-07": 85,
+      "2023-01-06": 1440,
       "2023-01-05": 1440,
       "2023-01-04": 1440,
       "2023-01-03": 1440,
@@ -130,8 +131,7 @@
       "2022-01-11": 1440,
       "2022-01-10": 1440,
       "2022-01-09": 1440,
-      "2022-01-08": 1440,
-      "2022-01-07": 1440
+      "2022-01-08": 1440
     }
   },
   {
@@ -140,7 +140,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/quinnelly.us.ico",
     "slug": "quinnelly-us",
     "status": "down",
-    "uptime": "70.42%",
+    "uptime": "70.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -151,7 +151,8 @@
     "timeMonth": 0,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2023-01-06": 1397,
+      "2023-01-07": 85,
+      "2023-01-06": 1440,
       "2023-01-05": 1440,
       "2023-01-04": 1440,
       "2023-01-03": 1440,
@@ -356,8 +357,7 @@
       "2022-01-11": 1440,
       "2022-01-10": 1440,
       "2022-01-09": 1440,
-      "2022-01-08": 1440,
-      "2022-01-07": 1440
+      "2022-01-08": 1440
     }
   },
   {
@@ -391,14 +391,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "26.87%",
+    "uptimeYear": "26.85%",
     "time": 558,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 460,
     "dailyMinutesDown": {
-      "2023-01-06": 1397,
+      "2023-01-07": 85,
+      "2023-01-06": 1440,
       "2023-01-05": 1440,
       "2023-01-04": 1440,
       "2023-01-03": 1440,
@@ -847,18 +848,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ad-guard-home",
     "status": "down",
-    "uptime": "28.64%",
+    "uptime": "28.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "28.64%",
+    "uptimeYear": "28.63%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-06": 1397,
+      "2023-01-07": 86,
+      "2023-01-06": 1440,
       "2023-01-05": 1440,
       "2023-01-04": 1440,
       "2023-01-03": 1440,
