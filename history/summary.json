@@ -37,7 +37,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/qindustries.llc.ico",
     "slug": "q-industries",
     "status": "down",
-    "uptime": "84.21%",
+    "uptime": "84.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -48,7 +48,8 @@
     "timeMonth": 158,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2023-01-10": 1398,
+      "2023-01-11": 94,
+      "2023-01-10": 1440,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
@@ -130,8 +131,7 @@
       "2022-01-15": 1440,
       "2022-01-14": 1440,
       "2022-01-13": 1440,
-      "2022-01-12": 1440,
-      "2022-01-11": 1440
+      "2022-01-12": 1440
     }
   },
   {
@@ -140,7 +140,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/quinnelly.us.ico",
     "slug": "quinnelly-us",
     "status": "down",
-    "uptime": "70.04%",
+    "uptime": "70.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -151,7 +151,8 @@
     "timeMonth": 0,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2023-01-10": 1398,
+      "2023-01-11": 94,
+      "2023-01-10": 1440,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
@@ -356,8 +357,7 @@
       "2022-01-15": 1440,
       "2022-01-14": 1440,
       "2022-01-13": 1440,
-      "2022-01-12": 1440,
-      "2022-01-11": 1440
+      "2022-01-12": 1440
     }
   },
   {
@@ -387,18 +387,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.vmug.com.ico",
     "slug": "tulsa-vmug",
     "status": "down",
-    "uptime": "55.52%",
+    "uptime": "55.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "25.78%",
+    "uptimeYear": "25.75%",
     "time": 551,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 461,
     "dailyMinutesDown": {
-      "2023-01-10": 1398,
+      "2023-01-11": 94,
+      "2023-01-10": 1440,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
@@ -851,18 +852,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ad-guard-home",
     "status": "down",
-    "uptime": "28.30%",
+    "uptime": "28.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "28.30%",
+    "uptimeYear": "28.29%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-10": 1398,
+      "2023-01-11": 95,
+      "2023-01-10": 1440,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
