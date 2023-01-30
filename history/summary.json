@@ -37,11 +37,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/qindustries.llc.ico",
     "slug": "q-industries",
     "status": "up",
-    "uptime": "84.46%",
+    "uptime": "84.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "57.05%",
-    "uptimeYear": "82.03%",
+    "uptimeMonth": "57.34%",
+    "uptimeYear": "82.06%",
     "time": 244,
     "timeDay": 726,
     "timeWeek": 364,
@@ -113,8 +113,7 @@
       "2022-02-03": 1440,
       "2022-02-02": 1440,
       "2022-02-01": 1440,
-      "2022-01-31": 1440,
-      "2022-01-30": 1440
+      "2022-01-31": 1440
     }
   },
   {
@@ -123,11 +122,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/quinnelly.us.ico",
     "slug": "quinnelly-us",
     "status": "up",
-    "uptime": "70.64%",
+    "uptime": "70.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "57.05%",
-    "uptimeYear": "49.01%",
+    "uptimeMonth": "57.34%",
+    "uptimeYear": "49.04%",
     "time": 199,
     "timeDay": 627,
     "timeWeek": 454,
@@ -322,8 +321,7 @@
       "2022-02-03": 1440,
       "2022-02-02": 1440,
       "2022-02-01": 1440,
-      "2022-01-31": 1440,
-      "2022-01-30": 1440
+      "2022-01-31": 1440
     }
   },
   {
@@ -357,14 +355,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "20.57%",
+    "uptimeYear": "20.55%",
     "time": 508,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 471,
     "dailyMinutesDown": {
-      "2023-01-29": 1398,
+      "2023-01-30": 84,
+      "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
@@ -848,7 +847,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-29": 1398,
+      "2023-01-30": 84,
+      "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
