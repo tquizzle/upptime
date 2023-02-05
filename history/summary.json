@@ -40,8 +40,8 @@
     "uptime": "84.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "76.77%",
-    "uptimeYear": "83.67%",
+    "uptimeMonth": "77.10%",
+    "uptimeYear": "83.70%",
     "time": 246,
     "timeDay": 357,
     "timeWeek": 578,
@@ -107,8 +107,7 @@
       "2022-02-09": 1440,
       "2022-02-08": 1440,
       "2022-02-07": 1440,
-      "2022-02-06": 1440,
-      "2022-02-05": 1440
+      "2022-02-06": 1440
     }
   },
   {
@@ -117,11 +116,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/quinnelly.us.ico",
     "slug": "quinnelly-us",
     "status": "up",
-    "uptime": "70.87%",
+    "uptime": "70.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "76.77%",
-    "uptimeYear": "50.66%",
+    "uptimeMonth": "77.10%",
+    "uptimeYear": "50.68%",
     "time": 204,
     "timeDay": 513,
     "timeWeek": 498,
@@ -310,8 +309,7 @@
       "2022-02-09": 1440,
       "2022-02-08": 1440,
       "2022-02-07": 1440,
-      "2022-02-06": 1440,
-      "2022-02-05": 1440
+      "2022-02-06": 1440
     }
   },
   {
@@ -341,18 +339,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.vmug.com.ico",
     "slug": "tulsa-vmug",
     "status": "down",
-    "uptime": "53.71%",
+    "uptime": "53.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "18.93%",
+    "uptimeYear": "18.90%",
     "time": 496,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 478,
     "dailyMinutesDown": {
-      "2023-02-04": 1397,
+      "2023-02-05": 101,
+      "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
@@ -842,7 +841,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-04": 1397,
+      "2023-02-05": 102,
+      "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
