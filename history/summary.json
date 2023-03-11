@@ -108,8 +108,8 @@
     "slug": "quinnelly-us",
     "status": "down",
     "uptime": "69.69%",
-    "uptimeDay": "69.04%",
-    "uptimeWeek": "9.86%",
+    "uptimeDay": "72.70%",
+    "uptimeWeek": "10.39%",
     "uptimeMonth": "35.44%",
     "uptimeYear": "47.67%",
     "time": 210,
@@ -397,19 +397,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloverstitch.com.ico",
     "slug": "cloverstitch",
     "status": "up",
-    "uptime": "98.68%",
-    "uptimeDay": "98.68%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "98.68%",
-    "uptimeYear": "98.68%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 219,
     "timeDay": 219,
     "timeWeek": 219,
     "timeMonth": 219,
     "timeYear": 219,
-    "dailyMinutesDown": {
-      "2023-03-11": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "The End",
