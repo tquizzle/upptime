@@ -12,12 +12,14 @@ sites:
     url: http://quinnelly.us
   - name: vTechify
     url: https://vtechify.com
-#  - name: SilasQ.com
-#    url: https://silasq.com
-#  - name: VivianQ.com
-#    url: https://vivianq.com
-  - name: Tulsa VMUG
-    url: https://my.vmug.com/s/group/0F94x00000057usCAA/tulsa-vmug
+  - name: SilasQ.com
+    url: https://silasq.com
+  - name: VivianQ.com
+    url: https://vivianq.com
+  - name: Mr. Starry
+    url: https://mrstarry.com
+#  - name: Tulsa VMUG
+#    url: https://my.vmug.com/s/group/0F94x00000057usCAA/tulsa-vmug
   - name: Google
     url: https://www.google.com
   - name: Instagram.com
@@ -48,10 +50,10 @@ sites:
     url: 9.9.9.9
     check: "tcp-ping"
     port: 53
-  - name: AdGuard Home
-    url: 10.0.1.22
-    check: "tcp-ping"
-    port: 53
+#  - name: AdGuard Home
+#    url: 10.0.1.
+#    check: "tcp-ping"
+#    port: 53
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
