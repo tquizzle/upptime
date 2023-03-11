@@ -108,8 +108,8 @@
     "slug": "quinnelly-us",
     "status": "down",
     "uptime": "69.69%",
-    "uptimeDay": "68.14%",
-    "uptimeWeek": "9.73%",
+    "uptimeDay": "68.42%",
+    "uptimeWeek": "9.77%",
     "uptimeMonth": "35.44%",
     "uptimeYear": "47.67%",
     "time": 210,
@@ -397,18 +397,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloverstitch.com.ico",
     "slug": "cloverstitch",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.55%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
     "time": 238,
     "timeDay": 238,
     "timeWeek": 238,
     "timeMonth": 238,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2023-03-11": 0
+      "2023-03-11": 4
     }
   },
   {
