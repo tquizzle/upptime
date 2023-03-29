@@ -13,7 +13,7 @@
     "time": 284,
     "timeDay": 100,
     "timeWeek": 109,
-    "timeMonth": 118,
+    "timeMonth": 120,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2022-11-05": 1360,
@@ -44,7 +44,7 @@
     "time": 264,
     "timeDay": 402,
     "timeWeek": 423,
-    "timeMonth": 408,
+    "timeMonth": 409,
     "timeYear": 285,
     "dailyMinutesDown": {
       "2023-01-12": 93,
@@ -107,15 +107,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/quinnelly.us.ico",
     "slug": "quinnelly-us",
     "status": "down",
-    "uptime": "70.32%",
+    "uptime": "70.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "66.37%",
+    "uptimeMonth": "63.40%",
     "uptimeYear": "47.67%",
     "time": 212,
     "timeDay": 158,
     "timeWeek": 272,
-    "timeMonth": 188,
+    "timeMonth": 186,
     "timeYear": 240,
     "dailyMinutesDown": {
       "2023-03-11": 289,
@@ -343,7 +343,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/silasq.com.ico",
     "slug": "silas-q-com",
     "status": "up",
-    "uptime": "78.40%",
+    "uptime": "78.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -441,7 +441,7 @@
     "time": 95,
     "timeDay": 60,
     "timeWeek": 78,
-    "timeMonth": 122,
+    "timeMonth": 124,
     "timeYear": 97,
     "dailyMinutesDown": {
       "2022-04-13": 23
@@ -461,7 +461,7 @@
     "time": 797,
     "timeDay": 298,
     "timeWeek": 437,
-    "timeMonth": 481,
+    "timeMonth": 477,
     "timeYear": 800,
     "dailyMinutesDown": {
       "2022-09-30": 63,
@@ -486,8 +486,7 @@
     "timeYear": 214,
     "dailyMinutesDown": {
       "2023-02-11": 24,
-      "2023-01-25": 17,
-      "2022-03-29": 19
+      "2023-01-25": 17
     }
   },
   {
@@ -497,14 +496,14 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "90.15%",
+    "uptimeDay": "99.56%",
     "uptimeWeek": "98.59%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.85%",
     "time": 281,
     "timeDay": 414,
     "timeWeek": 281,
-    "timeMonth": 315,
+    "timeMonth": 313,
     "timeYear": 288,
     "dailyMinutesDown": {
       "2023-03-28": 104,
@@ -531,7 +530,7 @@
     "time": 7,
     "timeDay": 20,
     "timeWeek": 12,
-    "timeMonth": 16,
+    "timeMonth": 15,
     "timeYear": 7,
     "dailyMinutesDown": {}
   },
