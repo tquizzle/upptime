@@ -13,7 +13,7 @@
     "time": 284,
     "timeDay": 123,
     "timeWeek": 107,
-    "timeMonth": 119,
+    "timeMonth": 120,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2022-11-05": 1360,
@@ -44,7 +44,7 @@
     "time": 265,
     "timeDay": 873,
     "timeWeek": 492,
-    "timeMonth": 423,
+    "timeMonth": 424,
     "timeYear": 287,
     "dailyMinutesDown": {
       "2023-01-12": 93,
@@ -110,12 +110,12 @@
     "uptime": "70.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "66.37%",
+    "uptimeMonth": "63.37%",
     "uptimeYear": "47.67%",
     "time": 212,
     "timeDay": 150,
     "timeWeek": 285,
-    "timeMonth": 187,
+    "timeMonth": 185,
     "timeYear": 240,
     "dailyMinutesDown": {
       "2023-03-11": 289,
@@ -330,7 +330,7 @@
     "time": 172,
     "timeDay": 171,
     "timeWeek": 133,
-    "timeMonth": 144,
+    "timeMonth": 145,
     "timeYear": 175,
     "dailyMinutesDown": {
       "2022-06-30": 188,
@@ -343,7 +343,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/silasq.com.ico",
     "slug": "silas-q-com",
     "status": "up",
-    "uptime": "79.55%",
+    "uptime": "79.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -441,7 +441,7 @@
     "time": 96,
     "timeDay": 391,
     "timeWeek": 121,
-    "timeMonth": 131,
+    "timeMonth": 133,
     "timeYear": 98,
     "dailyMinutesDown": {
       "2022-04-13": 23
@@ -461,7 +461,7 @@
     "time": 797,
     "timeDay": 361,
     "timeWeek": 409,
-    "timeMonth": 477,
+    "timeMonth": 473,
     "timeYear": 798,
     "dailyMinutesDown": {
       "2022-09-30": 63,
@@ -503,7 +503,7 @@
     "time": 281,
     "timeDay": 356,
     "timeWeek": 302,
-    "timeMonth": 316,
+    "timeMonth": 315,
     "timeYear": 288,
     "dailyMinutesDown": {
       "2023-03-28": 104,
