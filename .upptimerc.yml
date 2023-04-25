@@ -8,8 +8,8 @@ sites:
     url: https://travisq.com
   - name: Q Industries
     url: https://qindustries.llc
-  - name: Quinnelly.US
-    url: http://quinnelly.us
+#  - name: Quinnelly.US
+#    url: http://quinnelly.us
   - name: vTechify
     url: https://vtechify.com
   - name: SilasQ.com
