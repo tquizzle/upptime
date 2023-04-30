@@ -8,8 +8,6 @@ sites:
     url: https://travisq.com
   - name: Q Industries
     url: https://qindustries.llc
-#  - name: Quinnelly.US
-#    url: http://quinnelly.us
   - name: vTechify
     url: https://vtechify.com
   - name: SilasQ.com
@@ -18,8 +16,6 @@ sites:
     url: https://vivianq.com
   - name: Mr. Starry
     url: https://mrstarry.com
-#  - name: Tulsa VMUG
-#    url: https://my.vmug.com/s/group/0F94x00000057usCAA/tulsa-vmug
   - name: Cloverstitch
     url: https://cloverstitch.com
   - name: The End
@@ -32,12 +28,12 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-#  - name: ModivCare
-#    url: https://www.modivcare.com
-#  - name: SS1
-#    url: $upptime_ss1
-#  - name: SS2
-#    url: $upptime_ss2
+  - name: Short url
+    url: https://0hq.cc
+  - name: CheapIPTV
+    url: https://cheapiptv.org
+
+## DNS Checks
   - name: Google DNS 1
     url: 8.8.4.4
     check: "tcp-ping"
@@ -54,6 +50,14 @@ sites:
     url: 9.9.9.9
     check: "tcp-ping"
     port: 53
+  - name: NextDNS 1
+    url: 45.90.28.207
+    check: "tcp-ping"
+    port: 53
+  - name: NextDNS 2
+    url: 45.90.30.207
+    check: "tcp-ping"
+    port: 53
 #  - name: AdGuard Home
 #    url: 10.0.1.
 #    check: "tcp-ping"
@@ -65,7 +69,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  logoUrl: https://travisq.com/assets/img/site-logo.png
+  logoUrl: https://travisq.com/images/travisq-logo-400x400.png
   name: Upptime - TravisQ.com
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a **real** status page which uses **real-time** data from the repo. No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
@@ -99,4 +103,3 @@ user-agent: tquizzle
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-
