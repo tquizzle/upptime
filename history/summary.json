@@ -125,7 +125,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/silasq.com.ico",
     "slug": "silas-q-com",
     "status": "up",
-    "uptime": "94.10%",
+    "uptime": "94.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.28%",
     "uptimeMonth": "99.84%",
@@ -234,12 +234,12 @@
     "url": "https://instagram.com",
     "icon": "https://icons.duckduckgo.com/ip3/instagram.com.ico",
     "slug": "instagram-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.78%",
-    "uptimeDay": "50.78%",
+    "uptimeDay": "52.28%",
     "uptimeWeek": "42.51%",
     "uptimeMonth": "65.38%",
-    "uptimeYear": "97.10%",
+    "uptimeYear": "97.11%",
     "time": 736,
     "timeDay": 516,
     "timeWeek": 548,
@@ -262,8 +262,7 @@
       "2023-04-21": 1440,
       "2023-04-20": 1440,
       "2023-04-19": 658,
-      "2023-04-18": 25,
-      "2022-09-30": 63
+      "2023-04-18": 25
     }
   },
   {
