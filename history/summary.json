@@ -125,7 +125,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/silasq.com.ico",
     "slug": "silas-q-com",
     "status": "up",
-    "uptime": "94.28%",
+    "uptime": "94.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
@@ -236,17 +236,16 @@
     "slug": "instagram-com",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "53.87%",
-    "uptimeMonth": "86.41%",
-    "uptimeYear": "98.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "54.33%",
+    "uptimeMonth": "86.37%",
+    "uptimeYear": "98.86%",
     "time": 734,
     "timeDay": 649,
     "timeWeek": 546,
     "timeMonth": 576,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2023-05-18": 13,
       "2023-05-16": 403,
       "2023-05-15": 647,
       "2023-05-14": 980,
@@ -254,7 +253,7 @@
       "2023-05-12": 917,
       "2023-05-11": 999,
       "2023-05-10": 906,
-      "2023-05-09": 86
+      "2023-05-09": 117
     }
   },
   {
