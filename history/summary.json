@@ -332,19 +332,19 @@
     "url": "https://cheapiptv.org",
     "icon": "https://icons.duckduckgo.com/ip3/cheapiptv.org.ico",
     "slug": "cheap-iptv",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 625,
-    "timeDay": 755,
-    "timeWeek": 602,
-    "timeMonth": 625,
-    "timeYear": 625,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 626,
+    "timeDay": 724,
+    "timeWeek": 609,
+    "timeMonth": 626,
+    "timeYear": 626,
     "dailyMinutesDown": {
-      "2023-05-27": 1
+      "2023-05-27": 13
     }
   },
   {
