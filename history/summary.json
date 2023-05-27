@@ -332,18 +332,20 @@
     "url": "https://cheapiptv.org",
     "icon": "https://icons.duckduckgo.com/ip3/cheapiptv.org.ico",
     "slug": "cheap-iptv",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 640,
-    "timeDay": 1288,
-    "timeWeek": 656,
-    "timeMonth": 640,
-    "timeYear": 640,
-    "dailyMinutesDown": {}
+    "time": 625,
+    "timeDay": 755,
+    "timeWeek": 602,
+    "timeMonth": 625,
+    "timeYear": 625,
+    "dailyMinutesDown": {
+      "2023-05-27": 1
+    }
   },
   {
     "name": "Google DNS 1",
