@@ -33,7 +33,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/qindustries.llc.ico",
     "slug": "q-industries",
     "status": "up",
-    "uptime": "86.67%",
+    "uptime": "86.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -234,18 +234,19 @@
     "url": "https://instagram.com",
     "icon": "https://icons.duckduckgo.com/ip3/instagram.com.ico",
     "slug": "instagram-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "98.30%",
-    "uptimeMonth": "87.38%",
-    "uptimeYear": "98.95%",
+    "uptimeMonth": "87.47%",
+    "uptimeYear": "98.96%",
     "time": 755,
-    "timeDay": 879,
-    "timeWeek": 704,
+    "timeDay": 840,
+    "timeWeek": 710,
     "timeMonth": 685,
     "timeYear": 735,
     "dailyMinutesDown": {
+      "2023-06-04": 0,
       "2023-06-03": 17,
       "2023-06-02": 91,
       "2023-05-30": 63,
@@ -261,7 +262,7 @@
       "2023-05-13": 996,
       "2023-05-12": 917,
       "2023-05-11": 999,
-      "2023-05-10": 108
+      "2023-05-10": 68
     }
   },
   {
