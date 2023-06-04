@@ -242,7 +242,7 @@
     "uptimeYear": "98.95%",
     "time": 753,
     "timeDay": 532,
-    "timeWeek": 647,
+    "timeWeek": 652,
     "timeMonth": 681,
     "timeYear": 733,
     "dailyMinutesDown": {
@@ -318,10 +318,10 @@
     "url": "https://0hq.cc",
     "icon": "https://icons.duckduckgo.com/ip3/0hq.cc.ico",
     "slug": "short-url",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 371,
@@ -329,7 +329,9 @@
     "timeWeek": 320,
     "timeMonth": 364,
     "timeYear": 371,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-04": 1
+    }
   },
   {
     "name": "CheapIPTV",
