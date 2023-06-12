@@ -126,7 +126,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/silasq.com.ico",
     "slug": "silas-q-com",
     "status": "up",
-    "uptime": "95.83%",
+    "uptime": "95.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -244,7 +244,7 @@
     "time": 753,
     "timeDay": 742,
     "timeWeek": 664,
-    "timeMonth": 716,
+    "timeMonth": 715,
     "timeYear": 727,
     "dailyMinutesDown": {
       "2023-06-11": 19,
