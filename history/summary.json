@@ -236,18 +236,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/instagram.com.ico",
     "slug": "instagram-com",
     "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "96.56%",
-    "uptimeYear": "99.06%",
+    "uptime": "99.61%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "96.60%",
+    "uptimeYear": "99.04%",
     "time": 743,
     "timeDay": 398,
     "timeWeek": 591,
-    "timeMonth": 752,
+    "timeMonth": 753,
     "timeYear": 721,
     "dailyMinutesDown": {
-      "2023-06-15": 14,
       "2023-06-13": 43,
       "2023-06-11": 19,
       "2023-06-09": 21,
@@ -267,7 +266,7 @@
       "2023-05-14": 980,
       "2023-05-13": 996,
       "2023-05-12": 917,
-      "2023-05-11": 357
+      "2023-05-11": 457
     }
   },
   {
@@ -399,7 +398,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloudflare-dns",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
