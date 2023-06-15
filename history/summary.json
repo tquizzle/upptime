@@ -323,11 +323,11 @@
     "url": "https://0hq.cc",
     "icon": "https://icons.duckduckgo.com/ip3/0hq.cc.ico",
     "slug": "short-url",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 382,
     "timeDay": 521,
@@ -335,6 +335,7 @@
     "timeMonth": 379,
     "timeYear": 382,
     "dailyMinutesDown": {
+      "2023-06-15": 0,
       "2023-06-04": 20
     }
   },
