@@ -325,18 +325,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/0hq.cc.ico",
     "slug": "short-url",
     "status": "down",
-    "uptime": "97.50%",
+    "uptime": "97.42%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.49%",
-    "uptimeMonth": "96.16%",
-    "uptimeYear": "97.50%",
+    "uptimeWeek": "82.96%",
+    "uptimeMonth": "96.03%",
+    "uptimeYear": "97.42%",
     "time": 375,
     "timeDay": 84,
     "timeWeek": 344,
     "timeMonth": 371,
     "timeYear": 375,
     "dailyMinutesDown": {
-      "2023-06-16": 981,
+      "2023-06-16": 1034,
       "2023-06-15": 683,
       "2023-06-04": 20
     }
