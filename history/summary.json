@@ -244,7 +244,7 @@
     "time": 744,
     "timeDay": 1057,
     "timeWeek": 627,
-    "timeMonth": 785,
+    "timeMonth": 786,
     "timeYear": 723,
     "dailyMinutesDown": {
       "2023-06-13": 43,
@@ -324,18 +324,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/0hq.cc.ico",
     "slug": "short-url",
     "status": "down",
-    "uptime": "98.38%",
-    "uptimeDay": "26.11%",
-    "uptimeWeek": "89.44%",
-    "uptimeMonth": "97.53%",
-    "uptimeYear": "98.38%",
+    "uptime": "98.30%",
+    "uptimeDay": "22.37%",
+    "uptimeWeek": "88.91%",
+    "uptimeMonth": "97.40%",
+    "uptimeYear": "98.30%",
     "time": 375,
     "timeDay": 84,
     "timeWeek": 344,
     "timeMonth": 371,
     "timeYear": 375,
     "dailyMinutesDown": {
-      "2023-06-16": 381,
+      "2023-06-16": 435,
       "2023-06-15": 683,
       "2023-06-04": 20
     }
