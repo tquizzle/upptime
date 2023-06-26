@@ -198,9 +198,9 @@
     "url": "https://shoptheend.com",
     "icon": "https://icons.duckduckgo.com/ip3/shoptheend.com.ico",
     "slug": "the-end",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -209,7 +209,9 @@
     "timeWeek": 1377,
     "timeMonth": 729,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-26": 0
+    }
   },
   {
     "name": "Google",
@@ -326,18 +328,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/0hq.cc.ico",
     "slug": "short-url",
     "status": "down",
-    "uptime": "81.18%",
+    "uptime": "81.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "65.27%",
-    "uptimeYear": "81.18%",
+    "uptimeMonth": "65.19%",
+    "uptimeYear": "81.15%",
     "time": 323,
     "timeDay": 54,
     "timeWeek": 72,
     "timeMonth": 264,
     "timeYear": 323,
     "dailyMinutesDown": {
-      "2023-06-26": 112,
+      "2023-06-26": 145,
       "2023-06-25": 1440,
       "2023-06-24": 1440,
       "2023-06-23": 1440,
