@@ -238,9 +238,9 @@
     "slug": "instagram-com",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "98.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "98.95%",
     "uptimeYear": "99.07%",
     "time": 738,
     "timeDay": 530,
@@ -248,7 +248,6 @@
     "timeMonth": 645,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2023-06-29": 13,
       "2023-06-26": 25,
       "2023-06-20": 43,
       "2023-06-19": 55,
@@ -272,7 +271,7 @@
       "2023-05-14": 980,
       "2023-05-13": 996,
       "2023-05-12": 917,
-      "2023-05-11": 164
+      "2023-05-11": 191
     }
   },
   {
@@ -330,18 +329,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/0hq.cc.ico",
     "slug": "short-url",
     "status": "down",
-    "uptime": "76.96%",
+    "uptime": "76.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "55.15%",
-    "uptimeYear": "76.96%",
+    "uptimeMonth": "55.06%",
+    "uptimeYear": "76.93%",
     "time": 313,
     "timeDay": 120,
     "timeWeek": 85,
     "timeMonth": 251,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2023-06-29": 225,
+      "2023-06-29": 262,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
