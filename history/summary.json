@@ -22,8 +22,7 @@
       "2022-11-02": 291,
       "2022-08-26": 21,
       "2022-07-04": 16,
-      "2022-07-03": 15,
-      "2022-06-30": 188
+      "2022-07-03": 15
     }
   },
   {
@@ -115,9 +114,7 @@
     "timeWeek": 133,
     "timeMonth": 130,
     "timeYear": 165,
-    "dailyMinutesDown": {
-      "2022-06-30": 188
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SilasQ.com",
@@ -329,18 +326,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/0hq.cc.ico",
     "slug": "short-url",
     "status": "down",
-    "uptime": "75.92%",
+    "uptime": "75.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "52.47%",
-    "uptimeYear": "75.92%",
+    "uptimeMonth": "52.14%",
+    "uptimeYear": "75.79%",
     "time": 309,
     "timeDay": 81,
     "timeWeek": 88,
     "timeMonth": 241,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2023-06-29": 1398,
+      "2023-06-30": 104,
+      "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
