@@ -329,7 +329,7 @@
     "uptime": "69.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "34.98%",
+    "uptimeMonth": "34.96%",
     "uptimeYear": "69.72%",
     "time": 292,
     "timeDay": 90,
@@ -337,7 +337,7 @@
     "timeMonth": 187,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2023-07-05": 438,
+      "2023-07-05": 449,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
       "2023-07-02": 1440,
@@ -366,10 +366,10 @@
     "url": "https://cheapiptv.org",
     "icon": "https://icons.duckduckgo.com/ip3/cheapiptv.org.ico",
     "slug": "cheap-iptv",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 618,
@@ -377,7 +377,9 @@
     "timeWeek": 625,
     "timeMonth": 620,
     "timeYear": 618,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-05": 1
+    }
   },
   {
     "name": "Google DNS 1",
