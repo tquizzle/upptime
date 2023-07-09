@@ -158,9 +158,9 @@
     "url": "https://mrstarry.com",
     "icon": "https://icons.duckduckgo.com/ip3/mrstarry.com.ico",
     "slug": "mr-starry",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -169,7 +169,9 @@
     "timeWeek": 115,
     "timeMonth": 116,
     "timeYear": 190,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-09": 0
+    }
   },
   {
     "name": "Cloverstitch",
@@ -328,11 +330,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/0hq.cc.ico",
     "slug": "short-url",
     "status": "up",
-    "uptime": "67.29%",
+    "uptime": "67.30%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "19.67%",
+    "uptimeWeek": "19.93%",
     "uptimeMonth": "25.00%",
-    "uptimeYear": "67.29%",
+    "uptimeYear": "67.30%",
     "time": 285,
     "timeDay": 320,
     "timeWeek": 151,
