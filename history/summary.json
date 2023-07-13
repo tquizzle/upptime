@@ -142,18 +142,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vivianq.com.ico",
     "slug": "vivian-q-com",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 138,
     "timeDay": 263,
     "timeWeek": 200,
     "timeMonth": 134,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2023-07-13": 0
+      "2023-07-13": 22
     }
   },
   {
@@ -335,7 +335,7 @@
     "status": "up",
     "uptime": "68.83%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "68.93%",
+    "uptimeWeek": "69.14%",
     "uptimeMonth": "25.00%",
     "uptimeYear": "68.83%",
     "time": 285,
