@@ -13,7 +13,7 @@
     "time": 229,
     "timeDay": 706,
     "timeWeek": 616,
-    "timeMonth": 420,
+    "timeMonth": 419,
     "timeYear": 201,
     "dailyMinutesDown": {
       "2022-11-05": 1360,
@@ -37,7 +37,7 @@
     "time": 412,
     "timeDay": 734,
     "timeWeek": 366,
-    "timeMonth": 906,
+    "timeMonth": 930,
     "timeYear": 498,
     "dailyMinutesDown": {
       "2023-06-16": 18,
@@ -110,7 +110,7 @@
     "time": 166,
     "timeDay": 165,
     "timeWeek": 108,
-    "timeMonth": 129,
+    "timeMonth": 130,
     "timeYear": 163,
     "dailyMinutesDown": {}
   },
@@ -128,7 +128,7 @@
     "time": 220,
     "timeDay": 407,
     "timeWeek": 322,
-    "timeMonth": 301,
+    "timeMonth": 304,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2023-07-13": 29,
@@ -141,19 +141,19 @@
     "url": "https://vivianq.com",
     "icon": "https://icons.duckduckgo.com/ip3/vivianq.com.ico",
     "slug": "vivian-q-com",
-    "status": "down",
-    "uptime": "99.39%",
-    "uptimeDay": "23.81%",
-    "uptimeWeek": "89.12%",
-    "uptimeMonth": "97.50%",
-    "uptimeYear": "99.39%",
-    "time": 138,
-    "timeDay": 263,
-    "timeWeek": 200,
-    "timeMonth": 134,
-    "timeYear": 130,
+    "status": "up",
+    "uptime": "99.36%",
+    "uptimeDay": "20.20%",
+    "uptimeWeek": "88.60%",
+    "uptimeMonth": "97.38%",
+    "uptimeYear": "99.36%",
+    "time": 141,
+    "timeDay": 364,
+    "timeWeek": 233,
+    "timeMonth": 147,
+    "timeYear": 133,
     "dailyMinutesDown": {
-      "2023-07-13": 1097
+      "2023-07-13": 1149
     }
   },
   {
@@ -170,7 +170,7 @@
     "time": 221,
     "timeDay": 293,
     "timeWeek": 655,
-    "timeMonth": 258,
+    "timeMonth": 264,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2023-07-09": 38
@@ -208,7 +208,7 @@
     "time": 298,
     "timeDay": 272,
     "timeWeek": 124,
-    "timeMonth": 693,
+    "timeMonth": 711,
     "timeYear": 298,
     "dailyMinutesDown": {
       "2023-06-26": 77
@@ -228,7 +228,7 @@
     "time": 97,
     "timeDay": 90,
     "timeWeek": 73,
-    "timeMonth": 83,
+    "timeMonth": 81,
     "timeYear": 101,
     "dailyMinutesDown": {}
   },
@@ -246,7 +246,7 @@
     "time": 726,
     "timeDay": 614,
     "timeWeek": 581,
-    "timeMonth": 598,
+    "timeMonth": 600,
     "timeYear": 703,
     "dailyMinutesDown": {
       "2023-07-10": 21,
@@ -292,7 +292,7 @@
     "time": 216,
     "timeDay": 241,
     "timeWeek": 222,
-    "timeMonth": 214,
+    "timeMonth": 215,
     "timeYear": 226,
     "dailyMinutesDown": {
       "2023-02-11": 24,
@@ -313,7 +313,7 @@
     "time": 295,
     "timeDay": 271,
     "timeWeek": 397,
-    "timeMonth": 317,
+    "timeMonth": 313,
     "timeYear": 305,
     "dailyMinutesDown": {
       "2023-07-04": 25,
@@ -333,15 +333,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/0hq.cc.ico",
     "slug": "short-url",
     "status": "up",
-    "uptime": "69.15%",
+    "uptime": "69.16%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "79.81%",
+    "uptimeWeek": "80.33%",
     "uptimeMonth": "25.00%",
-    "uptimeYear": "69.15%",
+    "uptimeYear": "69.16%",
     "time": 285,
     "timeDay": 168,
     "timeWeek": 254,
-    "timeMonth": 152,
+    "timeMonth": 144,
     "timeYear": 285,
     "dailyMinutesDown": {
       "2023-07-08": 492,
@@ -385,7 +385,7 @@
     "time": 680,
     "timeDay": 1439,
     "timeWeek": 908,
-    "timeMonth": 713,
+    "timeMonth": 715,
     "timeYear": 680,
     "dailyMinutesDown": {
       "2023-07-12": 23,
@@ -473,7 +473,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 8,
-    "timeDay": 10,
+    "timeDay": 0,
     "timeWeek": 5,
     "timeMonth": 5,
     "timeYear": 9,
@@ -491,9 +491,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 22,
-    "timeDay": 34,
+    "timeDay": 0,
     "timeWeek": 8,
-    "timeMonth": 23,
+    "timeMonth": 24,
     "timeYear": 22,
     "dailyMinutesDown": {}
   },
@@ -509,7 +509,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 12,
-    "timeDay": 34,
+    "timeDay": 0,
     "timeWeek": 8,
     "timeMonth": 9,
     "timeYear": 12,
