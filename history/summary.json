@@ -12,7 +12,7 @@
     "uptimeYear": "99.13%",
     "time": 229,
     "timeDay": 706,
-    "timeWeek": 606,
+    "timeWeek": 616,
     "timeMonth": 420,
     "timeYear": 208,
     "dailyMinutesDown": {
@@ -142,18 +142,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vivianq.com.ico",
     "slug": "vivian-q-com",
     "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "57.19%",
-    "uptimeWeek": "93.88%",
-    "uptimeMonth": "98.59%",
-    "uptimeYear": "99.66%",
+    "uptime": "99.62%",
+    "uptimeDay": "52.89%",
+    "uptimeWeek": "93.27%",
+    "uptimeMonth": "98.45%",
+    "uptimeYear": "99.62%",
     "time": 138,
     "timeDay": 263,
     "timeWeek": 200,
     "timeMonth": 134,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2023-07-13": 617
+      "2023-07-13": 678
     }
   },
   {
@@ -333,11 +333,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/0hq.cc.ico",
     "slug": "short-url",
     "status": "up",
-    "uptime": "69.01%",
+    "uptime": "69.03%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "75.05%",
+    "uptimeWeek": "75.66%",
     "uptimeMonth": "25.00%",
-    "uptimeYear": "69.01%",
+    "uptimeYear": "69.03%",
     "time": 285,
     "timeDay": 168,
     "timeWeek": 254,
