@@ -14,7 +14,7 @@
     "timeDay": 706,
     "timeWeek": 616,
     "timeMonth": 420,
-    "timeYear": 208,
+    "timeYear": 201,
     "dailyMinutesDown": {
       "2022-11-05": 1360,
       "2022-11-04": 1440,
@@ -142,18 +142,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vivianq.com.ico",
     "slug": "vivian-q-com",
     "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "35.24%",
-    "uptimeWeek": "90.75%",
-    "uptimeMonth": "97.87%",
-    "uptimeYear": "99.48%",
+    "uptime": "99.45%",
+    "uptimeDay": "32.00%",
+    "uptimeWeek": "90.29%",
+    "uptimeMonth": "97.76%",
+    "uptimeYear": "99.45%",
     "time": 138,
     "timeDay": 263,
     "timeWeek": 200,
     "timeMonth": 134,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2023-07-13": 933
+      "2023-07-13": 979
     }
   },
   {
@@ -238,18 +238,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/instagram.com.ico",
     "slug": "instagram-com",
     "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.13%",
+    "uptime": "99.65%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.12%",
     "time": 726,
     "timeDay": 614,
     "timeWeek": 581,
-    "timeMonth": 600,
+    "timeMonth": 598,
     "timeYear": 703,
     "dailyMinutesDown": {
-      "2023-07-13": 13,
       "2023-07-10": 21,
       "2023-07-09": 21,
       "2023-07-05": 20,
@@ -276,7 +275,7 @@
       "2023-05-15": 647,
       "2023-05-14": 980,
       "2023-05-13": 996,
-      "2023-05-12": 676
+      "2023-05-12": 777
     }
   },
   {
@@ -334,11 +333,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/0hq.cc.ico",
     "slug": "short-url",
     "status": "up",
-    "uptime": "69.10%",
+    "uptime": "69.11%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "78.18%",
+    "uptimeWeek": "78.64%",
     "uptimeMonth": "25.00%",
-    "uptimeYear": "69.10%",
+    "uptimeYear": "69.11%",
     "time": 285,
     "timeDay": 168,
     "timeWeek": 254,
