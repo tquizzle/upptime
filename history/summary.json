@@ -142,18 +142,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vivianq.com.ico",
     "slug": "vivian-q-com",
     "status": "down",
-    "uptime": "99.52%",
-    "uptimeDay": "40.10%",
-    "uptimeWeek": "91.44%",
-    "uptimeMonth": "98.03%",
-    "uptimeYear": "99.52%",
+    "uptime": "99.51%",
+    "uptimeDay": "39.03%",
+    "uptimeWeek": "91.29%",
+    "uptimeMonth": "98.00%",
+    "uptimeYear": "99.51%",
     "time": 138,
     "timeDay": 263,
     "timeWeek": 200,
     "timeMonth": 134,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2023-07-13": 863
+      "2023-07-13": 878
     }
   },
   {
@@ -237,18 +237,19 @@
     "url": "https://instagram.com",
     "icon": "https://icons.duckduckgo.com/ip3/instagram.com.ico",
     "slug": "instagram-com",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.49%",
-    "uptimeYear": "99.12%",
+    "uptimeYear": "99.13%",
     "time": 727,
-    "timeDay": 629,
-    "timeWeek": 578,
+    "timeDay": 626,
+    "timeWeek": 579,
     "timeMonth": 599,
     "timeYear": 703,
     "dailyMinutesDown": {
+      "2023-07-13": 0,
       "2023-07-10": 21,
       "2023-07-09": 21,
       "2023-07-05": 20,
@@ -275,7 +276,7 @@
       "2023-05-15": 647,
       "2023-05-14": 980,
       "2023-05-13": 996,
-      "2023-05-12": 777
+      "2023-05-12": 676
     }
   },
   {
@@ -335,7 +336,7 @@
     "status": "up",
     "uptime": "69.08%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "77.49%",
+    "uptimeWeek": "77.64%",
     "uptimeMonth": "25.00%",
     "uptimeYear": "69.08%",
     "time": 285,
@@ -379,12 +380,12 @@
     "status": "up",
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.28%",
+    "uptimeWeek": "99.40%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.87%",
     "time": 680,
     "timeDay": 1439,
-    "timeWeek": 859,
+    "timeWeek": 866,
     "timeMonth": 713,
     "timeYear": 680,
     "dailyMinutesDown": {
