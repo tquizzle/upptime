@@ -239,17 +239,16 @@
     "slug": "instagram-com",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "99.20%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.19%",
     "time": 720,
     "timeDay": 527,
     "timeWeek": 539,
     "timeMonth": 582,
     "timeYear": 685,
     "dailyMinutesDown": {
-      "2023-08-03": 13,
       "2023-08-01": 21,
       "2023-07-26": 22,
       "2023-07-24": 28,
@@ -283,7 +282,7 @@
       "2023-05-15": 647,
       "2023-05-14": 980,
       "2023-05-13": 996,
-      "2023-05-12": 105
+      "2023-05-12": 138
     }
   },
   {
@@ -345,7 +344,7 @@
     "uptime": "75.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.77%",
+    "uptimeMonth": "83.85%",
     "uptimeYear": "75.84%",
     "time": 265,
     "timeDay": 0,
