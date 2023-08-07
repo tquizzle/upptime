@@ -335,8 +335,7 @@
       "2023-03-27": 38,
       "2023-03-01": 18,
       "2022-12-08": 21,
-      "2022-10-28": 23,
-      "2022-08-07": 17
+      "2022-10-28": 23
     }
   },
   {
@@ -345,11 +344,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/0hq.cc.ico",
     "slug": "short-url",
     "status": "up",
-    "uptime": "76.71%",
+    "uptime": "76.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.49%",
-    "uptimeYear": "76.71%",
+    "uptimeMonth": "95.77%",
+    "uptimeYear": "76.73%",
     "time": 262,
     "timeDay": 259,
     "timeWeek": 205,
