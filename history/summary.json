@@ -185,18 +185,16 @@
     "slug": "cloverstitch",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 270,
     "timeDay": 264,
     "timeWeek": 236,
     "timeMonth": 269,
     "timeYear": 270,
-    "dailyMinutesDown": {
-      "2023-09-19": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "The End",
