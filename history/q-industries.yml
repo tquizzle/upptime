@@ -1,7 +1,7 @@
 url: https://qindustries.llc
-status: up
-code: 200
-responseTime: 2407
-lastUpdated: 2023-10-29T23:07:44.711Z
+status: down
+code: 429
+responseTime: 926
+lastUpdated: 2023-10-30T10:53:42.262Z
 startTime: 2020-12-31T19:35:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
