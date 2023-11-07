@@ -200,9 +200,9 @@
     "url": "https://shoptheend.com",
     "icon": "https://icons.duckduckgo.com/ip3/shoptheend.com.ico",
     "slug": "the-end",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -212,6 +212,7 @@
     "timeMonth": 201,
     "timeYear": 269,
     "dailyMinutesDown": {
+      "2023-11-07": 0,
       "2023-06-26": 77
     }
   },
