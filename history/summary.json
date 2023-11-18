@@ -352,11 +352,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/0hq.cc.ico",
     "slug": "short-url",
     "status": "up",
-    "uptime": "88.64%",
+    "uptime": "88.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.64%",
+    "uptimeYear": "88.65%",
     "time": 239,
     "timeDay": 338,
     "timeWeek": 252,
@@ -474,8 +474,7 @@
       "2022-11-22": 276,
       "2022-11-21": 354,
       "2022-11-20": 339,
-      "2022-11-19": 184,
-      "2022-11-18": 122
+      "2022-11-19": 184
     }
   },
   {
