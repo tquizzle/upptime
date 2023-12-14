@@ -33,7 +33,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "92.00%",
+    "uptimeYear": "92.02%",
     "time": 1002,
     "timeDay": 2892,
     "timeWeek": 2443,
@@ -76,8 +76,7 @@
       "2022-12-18": 1440,
       "2022-12-17": 1440,
       "2022-12-16": 1440,
-      "2022-12-15": 1440,
-      "2022-12-14": 1440
+      "2022-12-15": 1440
     }
   },
   {
@@ -104,7 +103,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/silasq.com.ico",
     "slug": "silas-q-com",
     "status": "up",
-    "uptime": "94.97%",
+    "uptime": "94.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "67.11%",
@@ -161,18 +160,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mrstarry.com.ico",
     "slug": "mr-starry",
     "status": "down",
-    "uptime": "90.96%",
+    "uptime": "90.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "17.54%",
-    "uptimeYear": "90.96%",
+    "uptimeMonth": "17.29%",
+    "uptimeYear": "90.93%",
     "time": 296,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 455,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2023-12-13": 1397,
+      "2023-12-14": 67,
+      "2023-12-13": 1440,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
       "2023-12-10": 1440,
@@ -225,18 +225,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/shoptheend.com.ico",
     "slug": "the-end",
     "status": "down",
-    "uptime": "90.59%",
+    "uptime": "90.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "17.56%",
-    "uptimeYear": "90.59%",
+    "uptimeMonth": "17.31%",
+    "uptimeYear": "90.56%",
     "time": 1110,
     "timeDay": 9102,
     "timeWeek": 9670,
     "timeMonth": 6556,
     "timeYear": 1110,
     "dailyMinutesDown": {
-      "2023-12-13": 1397,
+      "2023-12-14": 68,
+      "2023-12-13": 1440,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
       "2023-12-10": 1440,
@@ -402,18 +403,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/0hq.cc.ico",
     "slug": "short-url",
     "status": "down",
-    "uptime": "78.56%",
+    "uptime": "78.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "15.01%",
-    "uptimeYear": "78.56%",
+    "uptimeMonth": "14.75%",
+    "uptimeYear": "78.53%",
     "time": 259,
     "timeDay": 374,
     "timeWeek": 563,
     "timeMonth": 393,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2023-12-13": 1397,
+      "2023-12-14": 68,
+      "2023-12-13": 1440,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
       "2023-12-10": 1440,
@@ -496,10 +498,10 @@
     "url": "8.8.4.4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "google-dns-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 7,
@@ -507,17 +509,19 @@
     "timeWeek": 3,
     "timeMonth": 3,
     "timeYear": 7,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-14": 1
+    }
   },
   {
     "name": "Google DNS 2",
     "url": "8.8.8.8",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "google-dns-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 7,
@@ -525,17 +529,19 @@
     "timeWeek": 4,
     "timeMonth": 4,
     "timeYear": 7,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-14": 1
+    }
   },
   {
     "name": "Cloudflare DNS",
     "url": "1.1.1.1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloudflare-dns",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 6,
@@ -543,17 +549,19 @@
     "timeWeek": 3,
     "timeMonth": 4,
     "timeYear": 6,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-14": 1
+    }
   },
   {
     "name": "Quad Nine",
     "url": "9.9.9.9",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "quad-nine",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 9,
@@ -561,17 +569,19 @@
     "timeWeek": 3,
     "timeMonth": 13,
     "timeYear": 10,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-14": 1
+    }
   },
   {
     "name": "NextDNS 1",
     "url": "45.90.28.207",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "next-dns-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 25,
@@ -579,17 +589,19 @@
     "timeWeek": 17,
     "timeMonth": 25,
     "timeYear": 25,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-14": 1
+    }
   },
   {
     "name": "NextDNS 2",
     "url": "45.90.30.207",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "next-dns-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
@@ -597,6 +609,8 @@
     "timeWeek": 181,
     "timeMonth": 173,
     "timeYear": 115,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-14": 1
+    }
   }
 ]
