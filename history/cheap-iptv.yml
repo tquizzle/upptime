@@ -1,7 +1,7 @@
 url: https://cheapiptv.org
-status: up
-code: 200
-responseTime: 551
-lastUpdated: 2024-01-12T08:44:20.441Z
+status: down
+code: 429
+responseTime: 481
+lastUpdated: 2024-01-12T08:57:01.419Z
 startTime: 2023-04-30T22:20:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
