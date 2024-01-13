@@ -76,10 +76,10 @@
     "url": "https://silasq.com",
     "icon": "https://icons.duckduckgo.com/ip3/silasq.com.ico",
     "slug": "silas-q-com",
-    "status": "up",
+    "status": "down",
     "uptime": "95.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "98.15%",
     "uptimeYear": "96.54%",
     "time": 332,
@@ -88,6 +88,7 @@
     "timeMonth": 433,
     "timeYear": 335,
     "dailyMinutesDown": {
+      "2024-01-13": 1,
       "2023-12-17": 766,
       "2023-12-16": 45,
       "2023-11-28": 173,
@@ -149,7 +150,7 @@
     "timeMonth": 0,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2024-01-13": 854,
+      "2024-01-13": 866,
       "2024-01-12": 1440,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
@@ -244,7 +245,7 @@
     "timeMonth": 10086,
     "timeYear": 1957,
     "dailyMinutesDown": {
-      "2024-01-13": 855,
+      "2024-01-13": 866,
       "2024-01-12": 1440,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
@@ -456,7 +457,7 @@
     "timeMonth": 387,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2024-01-13": 855,
+      "2024-01-13": 866,
       "2024-01-12": 1440,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
