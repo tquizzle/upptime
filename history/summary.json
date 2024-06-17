@@ -113,7 +113,7 @@
     "timeMonth": 130,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2024-06-17": 1027,
+      "2024-06-17": 1034,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
       "2024-06-14": 1440,
@@ -237,18 +237,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/silasq.com.ico",
     "slug": "silas-q-com",
     "status": "down",
-    "uptime": "63.27%",
+    "uptime": "63.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "54.32%",
+    "uptimeYear": "54.31%",
     "time": 332,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2024-06-17": 1027,
+      "2024-06-17": 1034,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
       "2024-06-14": 1440,
@@ -616,9 +616,9 @@
     "slug": "cloverstitch",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 311,
     "timeDay": 407,
@@ -626,7 +626,7 @@
     "timeMonth": 381,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2024-06-17": 0
+      "2024-06-17": 8
     }
   },
   {
@@ -892,7 +892,7 @@
     "timeMonth": 272,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2024-06-17": 1027,
+      "2024-06-17": 1035,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
       "2024-06-14": 1440,
